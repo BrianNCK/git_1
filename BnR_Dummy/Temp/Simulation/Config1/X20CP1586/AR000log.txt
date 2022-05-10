@@ -10,3 +10,21 @@ InstanceName: 01d863783a2e7c60
 Mon May 09 15:41:43 2022
 WorkingDirectory: C:\projects\BnR_Dummy\Temp\Simulation\Config1\X20CP1586\
 
+Mon May 09 15:41:43 2022
+COMMAND_COLDSTART
+
+Mon May 09 15:41:45 2022
+Version: B4.63
+
+Mon May 09 15:41:46 2022
+COMMAND_TERMINATE
+
+Mon May 09 15:41:46 2022
+COMMAND_COLDSTART
+
+Mon May 09 15:41:49 2022
+Version: B4.63
+
+Tue May 10 09:59:05 2022
+COMMAND_TERMINATE
+
