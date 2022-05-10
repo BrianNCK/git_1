@@ -1,0 +1,31 @@
+﻿@import "mixins.scss";
+#Page1content_Label1 {
+	@include elemWidth(80);
+}
+#Page1content_Label1 {
+	@include elemHeight(30);
+}
+#Page1content_Label1 {
+	@include elemTop(60);
+}
+#Page1content_Label1 {
+	@include elemLeft(120);
+}
+#Page1content_Label1 {
+		z-index: 0;
+}
+#Page1content_RadialGauge1 {
+	@include elemWidth(200);
+}
+#Page1content_RadialGauge1 {
+	@include elemHeight(200);
+}
+#Page1content_RadialGauge1 {
+	@include elemTop(140);
+}
+#Page1content_RadialGauge1 {
+	@include elemLeft(220);
+}
+#Page1content_RadialGauge1 {
+		z-index: 1;
+}

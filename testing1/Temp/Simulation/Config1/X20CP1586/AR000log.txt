@@ -1,0 +1,21 @@
+Tue May 10 10:47:26 2022
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Tue May 10 10:47:26 2022
+No ARsim registration found!
+
+Tue May 10 10:47:26 2022
+InstanceName: 01d8641848911510
+
+Tue May 10 10:47:26 2022
+WorkingDirectory: C:\projects\testing1\Temp\Simulation\Config1\X20CP1586\
+
+Tue May 10 10:47:26 2022
+COMMAND_COLDSTART
+
+Tue May 10 10:47:29 2022
+Version: B4.63
+
+Tue May 10 10:47:29 2022
+COMMAND_TERMINATE
+
