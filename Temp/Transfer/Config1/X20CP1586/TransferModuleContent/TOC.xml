@@ -1346,72 +1346,88 @@
 					<File Name="index.html" Size="583" HashValue="D4F7BF3E953B0B4F4C78158B1216F74B" ProjectDependent="1" IgnoreDifference="0" />
 				</Folder>
 			</Folder>
+			<Folder Name="OPCUA" ProjectDependent="1" IgnoreDifference="0" IsGroup="1">
+				<Folder Name="NodeSet" ProjectDependent="1" IgnoreDifference="0">
+					<Folder Name="Generated" ProjectDependent="1" IgnoreDifference="0">
+						<File Name="OpcUaMap.uar.gz" Size="590" HashValue="D7FB54884D23505A0D230C6A429A063F" ProjectDependent="1" IgnoreDifference="0" />
+					</Folder>
+					<Folder Name="Vendor" ProjectDependent="1" IgnoreDifference="0">
+						<File Name="plc.aprol.uanodeset" Size="6712" HashValue="08ADF5B15D3AF0566E164F0E4D4FB418" ProjectDependent="1" IgnoreDifference="0" />
+						<File Name="plc.br.pv.uanodeset" Size="7103" HashValue="682E7CDF6F09940F70D6CA1CC158D516" ProjectDependent="1" IgnoreDifference="0" />
+						<File Name="plc.plcopen.pv.uanodeset" Size="19824" HashValue="0ACC12204AA326E4FC509E697ACBB201" ProjectDependent="1" IgnoreDifference="0" />
+						<File Name="plc.uanodeset" Size="67031" HashValue="7E6468A1A5803E61490A195B09B3750B" ProjectDependent="1" IgnoreDifference="0" />
+					</Folder>
+				</Folder>
+			</Folder>
 		</Class>
 		<Class Name="Addons">
 			<Folder Name="IATR" ProjectDependent="1" IgnoreDifference="0" IsGroup="1">
-				<File Name="IATRRunner.dll" Size="26624" HashValue="01A3F7699876D6A612CD167C3B44076B" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="IATRRunner" Size="47111" HashValue="94D1D66C572D5ECDFEFCD00E7D7B6412" ProjectDependent="1" IgnoreDifference="0" />
 				<File Name="IATR_363196.txt" Size="20" HashValue="D38B3B4240C9C39232C6B5F6E924D58E" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="LoadBurLibraries2.cfg" Size="200" HashValue="65481B6E01ECB475646760C3CD234147" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="LoadIATRLibraries.cfg" Size="291" HashValue="25D8920A49A5E6225687938B475B9D2F" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="QtCore4.dll" Size="2557440" HashValue="92CF191BBDB0CD6C63E4BC0E8993C1C1" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="QtNetwork4.dll" Size="1028608" HashValue="DDA762F130F64008325ECD7E6C868C5C" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="QtTest4.dll" Size="109568" HashValue="FF4B9EF5DD8916B86239D70DB7B423A1" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="LoadIATRLibraries.cfg" Size="235" HashValue="2125A3967B44775AD2899D2B637AE0FE" ProjectDependent="1" IgnoreDifference="0" />
 				<File Name="Version.xml" Size="112" HashValue="A07551F77E975CF13B424FFE456CAFC2" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="afcomp.dll" Size="119808" HashValue="911C5713DDD59D01EB23F983F32926E1" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="afsystem.conf" Size="1098" HashValue="235C1E1D57ABB69E1F099DED36402FF1" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="afsystem.dll" Size="212480" HashValue="F61259CBA54D3F0C62622494B9A7C51D" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="arsimproxy.dll" Size="422912" HashValue="30D8C5888362BF14001EED6EA157E0A5" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="afcomp" Size="270044" HashValue="9C5D3B060E507EE41E18F1F37915BE53" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="afsystem" Size="431009" HashValue="490FD29A8320277C065E018A784214D3" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="afsystem.conf" Size="1194" HashValue="93E4243C774C4C5486C9FF6FBA9039DC" ProjectDependent="1" IgnoreDifference="0" />
 				<File Name="defaultConfig.mappviewcfg" Size="1957" HashValue="CB0A893787233CFAD78400310086E7DC" ProjectDependent="1" IgnoreDifference="0" />
 				<File Name="defaultOpcUaServer.uaserver" Size="514" HashValue="355E012540AA023210B4FE79E6F9EACA" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="iatrbigdata.dll" Size="138240" HashValue="E3E02EABB56B4C9382E406FC1AFFCB1E" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="iatrcore.dll" Size="488960" HashValue="B088C9B1E27A3E46B92EED388ED013C6" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="iatrexpr.dll" Size="203264" HashValue="EC3B6D507F9D892A32FEEA839E7F4574" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="iatrhtml.dll" Size="164864" HashValue="6031EA617FFD6D460EDB4988128E9595" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="iatrmapp.dll" Size="120320" HashValue="47264FA1EBCCFD886B59A6B618FD9578" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="iatrserv.dll" Size="492032" HashValue="BA0C1CDACF92CE91BD465FCF23439600" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="iatrsnippet.dll" Size="90624" HashValue="6F1CBAF7067332628912D2E96D418D3C" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="iatruac.dll" Size="1406464" HashValue="41F379119869BBE2A64EC3663BD8D0D9" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="iatrvar.dll" Size="128000" HashValue="3A49C2BCB8C48DF3BE7170CB3F7DEC79" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="iatrwstf.dll" Size="300544" HashValue="D38FDA4D0BDAE7524DD038A7A6A439BA" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="jsonBackport.dll" Size="82944" HashValue="442E2916D7984D51375E83E07FE4FBE8" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="libeay32.dll" Size="1209344" HashValue="1C84D5275826474C1FBB04FD5A8590C5" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="libxml2.dll" Size="1038336" HashValue="E02A9E7F7F2855B373E61EE57608CC4B" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="sqlite3.dll" Size="650725" HashValue="EE68B052A08FEC0F574F2DAE2003DF27" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="ssleay32.dll" Size="271360" HashValue="CD217B0AEA765E49C18403BF277F88EF" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="uastack.dll" Size="941568" HashValue="B674D636AD576B6321732A333498B683" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="iatrbigdata" Size="278933" HashValue="01E2E3CDE4A791A0B1E0CD403F43461F" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="iatrcore" Size="1214424" HashValue="1064233997FFD5DCDC963A1AD76C7D3B" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="iatrexpr" Size="491721" HashValue="4C2150C668C0416F2C408BBC0A9E2726" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="iatrhtml" Size="356858" HashValue="3C3D42364E987B3E2136B734AF46B23C" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="iatrmapp" Size="228368" HashValue="78E19CE4AC5194386EED9688CA80A4A4" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="iatrserv" Size="1003902" HashValue="ABBF72A1148E9742BDD879539C4AFA4C" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="iatrsnippet" Size="212264" HashValue="FCA4C681E970CF0AD0E0D954673E13AC" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="iatruac" Size="1209850" HashValue="6E9C0DB67B45E1761006729396AE2D05" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="iatrvar" Size="322282" HashValue="4B3F48E17C93FACC78ECF905A2F6616B" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="iatrwstf" Size="605885" HashValue="0C7F175C2B7EC4C66756EF2716C4E80E" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="jsonBackport" Size="111195" HashValue="D3521172F8B36F543E994BB4608CE129" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="libQtCore.a.out" Size="3494111" HashValue="DA3294B3473224605602A633EFAB6CFE" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="libQtNetwork.a.out" Size="1800116" HashValue="3B042A8B78D91A69743F96D7171619B1" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="libQtTest.a.out" Size="186817" HashValue="7C0EA85D51F59E81C5764DAB53D34DC4" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="libuaclient" Size="19659593" HashValue="8DDDF18A99CE744090884926C44F1709" ProjectDependent="1" IgnoreDifference="0" />
 			</Folder>
 		</Class>
 		<Class Name="Os">
 			<Folder Name="Brm" ProjectDependent="1" IgnoreDifference="0">
-				<File Name="@cfAR000.br" Size="4340" HashValue="0D3E5FED29014F458A1D1633B9298A8C" ProjectDependent="1" IgnoreDifference="0" />
-				<File Name="@sbAR000.br" Size="2292" HashValue="B5B1E498490008D5C212422C88CA8FF1" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="@cfX20CP1586.br" Size="5044" HashValue="729723267E2E701E9AD496FFEAF4F028" ProjectDependent="1" IgnoreDifference="0" />
+				<File Name="@sbX20CP1586.br" Size="2548" HashValue="9E1179875C135CCD4CDA08A10E1659E3" ProjectDependent="1" IgnoreDifference="0" />
 			</Folder>
-			<File Name="InaFrms.dll" Size="98304" HashValue="BCBB8AB4B7168E2BB538CF86E5B742A3" ProjectDependent="1" IgnoreDifference="0" />
 			<Folder Name="System" ProjectDependent="1" IgnoreDifference="0">
 				<Folder Name="BASE" ProjectDependent="1" IgnoreDifference="0">
 					<Folder Name="COMPONENTS" ProjectDependent="1" IgnoreDifference="0">
 						<File Name="ArLcTextP.br" Size="537344" HashValue="E05F098D39012CDCD0A3DBA9B9047B54" ProjectDependent="1" IgnoreDifference="0" />
 						<File Name="unitsys.br" Size="476256" HashValue="5FA2D7558ECEBE5F6379339027C94F61" ProjectDependent="1" IgnoreDifference="0" />
 					</Folder>
+					<Folder Name="FW" ProjectDependent="1" IgnoreDifference="0">
+						<File Name="0030#0.bl.gz" Size="34359" HashValue="4E89C62BBDA9586923F8E899686E821A" ProjectDependent="1" IgnoreDifference="0" />
+					</Folder>
 					<Folder Name="HWD" ProjectDependent="1" IgnoreDifference="0">
-						<File Name="AsHwdSimulation.xml.gz" Size="12023" HashValue="32224B3050D3120844EA63FFA13BDFEC" ProjectDependent="1" IgnoreDifference="0" />
 						<File Name="AsHwdhw_upl.xml.gz" Size="15992" HashValue="623447A612A6D06556D7C944B1132440" ProjectDependent="1" IgnoreDifference="0" />
+						<File Name="AsHwdx20cpx58x.xml.gz" Size="15754" HashValue="08CA059A276CEAA118747686646DFDC1" ProjectDependent="1" IgnoreDifference="0" />
 					</Folder>
 				</Folder>
+				<Folder Name="DKM" ProjectDependent="1" IgnoreDifference="0">
+					<File Name="dkm_gdbserver_brelf.out" Size="208726" HashValue="13E6DAFB394FD6A3395B202BB8395251" ProjectDependent="1" IgnoreDifference="0" />
+					<File Name="dkm_gdbserver_ipa.out" Size="59883" HashValue="BF932205C950B1A744D295EFF5020BBA" ProjectDependent="1" IgnoreDifference="0" />
+					<File Name="dkm_opcua.out.gz" Size="796967" HashValue="8976FE2AA4CF543D083E2C269B19C608" ProjectDependent="1" IgnoreDifference="0" />
+					<File Name="dkm_rbac.out" Size="23175" HashValue="6F5538B76529DC8E74D299AC5E72EB20" ProjectDependent="1" IgnoreDifference="0" />
+					<File Name="dkm_scm.out" Size="118981" HashValue="AE36E3F34A1A493F700D34D3C57A8F84" ProjectDependent="1" IgnoreDifference="0" />
+					<File Name="dkms.xml" Size="656" HashValue="8317A83A43FD7B4F870F953AE642D75D" ProjectDependent="1" IgnoreDifference="0" />
+				</Folder>
 				<Folder Name="SDM" ProjectDependent="1" IgnoreDifference="0">
-					<File Name="arsdm.tar.gz" Size="522872" HashValue="CE28BFB55FF91875D44FF35FAFF6AB43" ProjectDependent="1" IgnoreDifference="0" />
+					<File Name="arsdm.tar.gz" Size="522872" HashValue="41D18F21133A459C952BADC39471A7F7" ProjectDependent="1" IgnoreDifference="0" />
 				</Folder>
 				<Folder Name="TOC" ProjectDependent="1" IgnoreDifference="0">
-					<File Name="ftoc.xml" Size="821" HashValue="F83AEC703141D083AB19580424BF781A" ProjectDependent="1" IgnoreDifference="0" />
+					<File Name="ftoc.xml" Size="185" HashValue="5236588FC50BAFD15276E800159B75C0" ProjectDependent="1" IgnoreDifference="0" />
 				</Folder>
 				<Folder Name="WEBSERV" ProjectDependent="1" IgnoreDifference="0">
 					<File Name="webserv.br" Size="108864" HashValue="74663CEF814F48F09F3484FCB3126AE5" ProjectDependent="1" IgnoreDifference="0" />
 				</Folder>
 			</Folder>
-			<File Name="arsimproxy.dll" Size="159744" HashValue="EB7720D84D72854A6EC2A8FF342A953B" ProjectDependent="1" IgnoreDifference="0" />
 		</Class>
 		<Memory Name="SYSROM">
-			<Module Name="::$$sysconf" Type="129" Size="67340" Modified="2022-03-15 14:02:59" Version="4.63" ProjectDependent="1" Reboot="1" />
+			<Module Name="::$$sysconf" Type="129" Size="69816" Modified="2022-05-10 15:08:06" Version="4.63" ProjectDependent="1" Reboot="1" />
 			<Module Name="::TCData" Type="209" Size="3869280" Modified="2022-03-15 14:03:00" Version="1.00" ProjectDependent="1" />
 			<Module Name="::arconfig" Type="132" Size="2964" Modified="2022-03-15 14:02:59" Version="1.00" ProjectDependent="1" Reboot="1" />
 			<Module Name="::asfw" Type="67" Size="237852" Modified="2022-03-15 14:02:59" Version="1.00" ProjectDependent="1" Reboot="1" />

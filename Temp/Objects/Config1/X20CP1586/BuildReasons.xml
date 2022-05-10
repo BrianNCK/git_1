@@ -1,53 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BuildReasons>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\ashwac.br">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\iat_media.job._markerfile">
     <BuildReason>Target "iat_media.job._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\page1.page._markerfile">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\page1\page.page" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\revinfo\main.st.o">
-    <BuildReason>Target "main.st.o" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\program1\cyclic.ld.o">
-    <BuildReason>Target "cyclic.ld.o" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\asbrstr.br">
-    <BuildReason>Target "asbrstr.br" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\program.br">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\firstvisu.json">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\page1.page._markerfile" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\revinfo\_bur_pvdef.st.o">
-    <BuildReason>Target "_bur_pvdef.st.o" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\program1\init.ld.o">
-    <BuildReason>Target "init.ld.o" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\revinfo\a.out">
-    <BuildReason>Target "a.out" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\program1\exit.ld.o">
-    <BuildReason>Target "exit.ld.o" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\program1\_bur_pvdef.st.o">
-    <BuildReason>Target "_bur_pvdef.st.o" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\program1\a.out">
-    <BuildReason>Target "a.out" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\program1\program1.ox">
-    <BuildReason>Target "program1.ox" does not exist</BuildReason>
   </Rule>
   <Rule ID=".mappView_Build">
     <BuildReason>Rule contains a phony target. </BuildReason>
@@ -55,24 +9,7 @@
   <Rule ID=".mappView_IntegrationBuild">
     <BuildReason>Rule contains a phony target. </BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\program1.br">
-    <BuildReason>Target "program1.br" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\revinfo\revinfo.ox">
-    <BuildReason>Target "revinfo.ox" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\revinfo.br">
-    <BuildReason>Target "revinfo.br" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\iomap.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\x20cp1586\cpu.sw" differs.
-</BuildReason>
-  </Rule>
   <Rule ID="#cpu_tp.mak">
     <BuildReason>Rule is forced.</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\binaries\config1\x20cp1586\transfer.lst">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\program.br" differs.
-</BuildReason>
   </Rule>
 </BuildReasons>
