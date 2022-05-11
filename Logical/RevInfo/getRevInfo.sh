@@ -1,4 +1,4 @@
-#!/bin/sh
+=#!/bin/sh
 
 # Copyright (c) 2021 Loupe | info@loupe.team | https://loupeteam.github.io/Sandbox/ | Version 1.00
 #
