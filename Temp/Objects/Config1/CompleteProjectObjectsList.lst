@@ -364,7 +364,7 @@
     Path="C:\projects\testing1\Logical\RevInfo\RevInfo.var"
     LogicalPath="RevInfo.RevInfo.var"
     Type="File"
-    LastWriteTime="132967219981150504"
+    LastWriteTime="132967258041315042"
     Private="true" />
   <Object
     Path="C:\projects\testing1\Logical\RevInfo\RevInfo\IEC.prg"
@@ -398,7 +398,7 @@
     Path="C:\projects\testing1\Physical\Config1\Hardware.hw"
     LogicalPath="Config1.Hardware.hw"
     Type="File"
-    LastWriteTime="132967219860617689"
+    LastWriteTime="132967253401560818"
     Private="false" />
   <Object
     Path="C:\projects\testing1\Physical\Config1\Hardware.hwl"
