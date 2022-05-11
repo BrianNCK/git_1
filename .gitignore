@@ -1,3 +1,6 @@
-Binaries/
-Diagnosis/
-Temp/
+*/Binaries/*
+Binaries/*
+*/Diagnosis/*
+Diagnosis/*
+*/Temp/*
+Temp/*
