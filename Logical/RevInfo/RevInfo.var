@@ -1,10 +1,10 @@
 VAR CONSTANT
-	revision : STRING[80] := '8553079';
-	revisionDate : STRING[80] := '2022-05-12 13:56:30 +0800';
+	revision : STRING[80] := 'bb7ba63';
+	revisionDate : STRING[80] := '2022-05-12 14:50:45 +0800';
 	revisionAuthor : STRING[80] := 'Brian Ng';
-	branchName : STRING[80] := 'main';
-	uncommittedChanges : STRING[80] := ' 12 files changed, 26 insertions(+), 35 deletions(-)';
-	buildDate  : STRING[80] := '2022-05-12 13:59:34 +0800';
+	branchName : STRING[80] := 'chicken';
+	uncommittedChanges : STRING[80] := ' 1 file changed, 10 deletions(-)';
+	buildDate  : STRING[80] := '2022-05-12 14:58:30 +0800';
 	buildConfiguration : STRING[80] := 'Config1';
 	builder : STRING[80] := 'Brian Ng';
 END_VAR
