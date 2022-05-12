@@ -1,0 +1,7 @@
+
+
+PROGRAM _INIT
+	hello ;
+	
+	 
+END_PROGRAM

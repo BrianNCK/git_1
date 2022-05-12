@@ -1,0 +1,3 @@
+VAR
+	hello : USINT;
+END_VAR

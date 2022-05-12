@@ -9,5 +9,6 @@
     <Object Type="Program" Language="IEC">Program</Object>
     <Object Type="Program" Language="IEC">Program1</Object>
     <Object Type="Package">RevInfo</Object>
+    <Object Type="Program" Language="IEC">Program2</Object>
   </Objects>
 </Package>
