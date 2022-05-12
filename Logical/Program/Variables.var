@@ -1,4 +1,5 @@
 VAR
+	time : REAL;
 	Speed : INT;
 	Temperature : REAL;
 END_VAR

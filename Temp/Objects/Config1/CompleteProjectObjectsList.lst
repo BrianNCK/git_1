@@ -288,7 +288,7 @@
     Path="C:\projects\testing1\Logical\Program\Cyclic.st"
     LogicalPath="Program.Cyclic.st"
     Type="File"
-    LastWriteTime="132917971338062811"
+    LastWriteTime="132968087727254828"
     Private="false" />
   <Object
     Path="C:\projects\testing1\Logical\Program\Init.st"
@@ -312,7 +312,7 @@
     Path="C:\projects\testing1\Logical\Program\Variables.var"
     LogicalPath="Program.Variables.var"
     Type="File"
-    LastWriteTime="132917972159585450"
+    LastWriteTime="132968087686425255"
     Private="true" />
   <Object
     Path="C:\projects\testing1\Logical\Program1\IEC.prg"
@@ -364,7 +364,7 @@
     Path="C:\projects\testing1\Logical\RevInfo\RevInfo.var"
     LogicalPath="RevInfo.RevInfo.var"
     Type="File"
-    LastWriteTime="132968084610645439"
+    LastWriteTime="132968087746934060"
     Private="true" />
   <Object
     Path="C:\projects\testing1\Logical\RevInfo\RevInfo\IEC.prg"
