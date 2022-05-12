@@ -1,3 +1,4 @@
 VAR
+	chicken : USINT;
 	bkablabla : USINT;
 END_VAR

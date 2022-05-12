@@ -1,4 +1,5 @@
 VAR
+	chicken : USINT;
 	time : REAL;
 	Speed : INT;
 	Temperature : REAL;
