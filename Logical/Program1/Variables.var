@@ -1,4 +1,4 @@
 VAR
 	chicken : USINT;
-	bkablabla : USINT;
+	nugget : USINT;
 END_VAR
