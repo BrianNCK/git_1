@@ -3,16 +3,8 @@
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\iat_media.job._markerfile">
     <BuildReason>Target "iat_media.job._markerfile" does not exist</BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\arconfig.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
-</BuildReason>
-  </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\revinfo\main.st.o">
     <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\revinfo\revinfo.var" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\ashwac.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
 </BuildReason>
   </Rule>
   <Rule ID=".mappView_Build">
@@ -35,22 +27,6 @@
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\revinfo.br">
     <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\revinfo\revinfo.ox" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\iomap.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\sysconf.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\asfw.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\ashwd.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
 </BuildReason>
   </Rule>
   <Rule ID="#cpu_tp.mak">
