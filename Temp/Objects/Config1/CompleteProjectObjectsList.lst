@@ -5,7 +5,7 @@
     Path="C:\projects\testing1\Logical\Package.pkg"
     LogicalPath=""
     Type="Package.ParentUnknown"
-    LastWriteTime="132966258932080993" />
+    LastWriteTime="132968162854605516" />
   <Object
     Path="C:\projects\testing1\Logical\Global.typ"
     LogicalPath="Global.typ"
@@ -294,7 +294,7 @@
     Path="C:\projects\testing1\Logical\Program\Init.st"
     LogicalPath="Program.Init.st"
     Type="File"
-    LastWriteTime="132917972797139225"
+    LastWriteTime="132972244562888921"
     Private="false" />
   <Object
     Path="C:\projects\testing1\Logical\Program\Exit.st"
@@ -312,7 +312,7 @@
     Path="C:\projects\testing1\Logical\Program\Variables.var"
     LogicalPath="Program.Variables.var"
     Type="File"
-    LastWriteTime="132968122315036601"
+    LastWriteTime="132968133613050054"
     Private="true" />
   <Object
     Path="C:\projects\testing1\Logical\Program1\IEC.prg"
@@ -347,7 +347,7 @@
     Path="C:\projects\testing1\Logical\Program1\Variables.var"
     LogicalPath="Program1.Variables.var"
     Type="File"
-    LastWriteTime="132968122315046569"
+    LastWriteTime="132968158830197372"
     Private="true" />
   <Object
     Path="C:\projects\testing1\Logical\RevInfo\Package.pkg"
@@ -364,7 +364,7 @@
     Path="C:\projects\testing1\Logical\RevInfo\RevInfo.var"
     LogicalPath="RevInfo.RevInfo.var"
     Type="File"
-    LastWriteTime="132968123101176614"
+    LastWriteTime="132972244580464923"
     Private="true" />
   <Object
     Path="C:\projects\testing1\Logical\RevInfo\RevInfo\IEC.prg"
@@ -390,6 +390,41 @@
     LastWriteTime="132806139480000000"
     Private="true" />
   <Object
+    Path="C:\projects\testing1\Logical\Program2\IEC.prg"
+    LogicalPath="Program2"
+    Type="Program"
+    LastWriteTime="132968162854372423" />
+  <Object
+    Path="C:\projects\testing1\Logical\Program2\Cyclic.st"
+    LogicalPath="Program2.Cyclic.st"
+    Type="File"
+    LastWriteTime="132968162854272353"
+    Private="false" />
+  <Object
+    Path="C:\projects\testing1\Logical\Program2\Init.st"
+    LogicalPath="Program2.Init.st"
+    Type="File"
+    LastWriteTime="132968163387064625"
+    Private="false" />
+  <Object
+    Path="C:\projects\testing1\Logical\Program2\Exit.st"
+    LogicalPath="Program2.Exit.st"
+    Type="File"
+    LastWriteTime="132968162854322226"
+    Private="false" />
+  <Object
+    Path="C:\projects\testing1\Logical\Program2\Types.typ"
+    LogicalPath="Program2.Types.typ"
+    Type="File"
+    LastWriteTime="132968162854342561"
+    Private="true" />
+  <Object
+    Path="C:\projects\testing1\Logical\Program2\Variables.var"
+    LogicalPath="Program2.Variables.var"
+    Type="File"
+    LastWriteTime="132968163387184306"
+    Private="true" />
+  <Object
     Path="C:\projects\testing1\Physical\Config1\Config.pkg"
     LogicalPath="Config1"
     Type="Configuration.ParentUnknown"
@@ -398,7 +433,7 @@
     Path="C:\projects\testing1\Physical\Config1\Hardware.hw"
     LogicalPath="Config1.Hardware.hw"
     Type="File"
-    LastWriteTime="132967253401560818"
+    LastWriteTime="132972243861762903"
     Private="false" />
   <Object
     Path="C:\projects\testing1\Physical\Config1\Hardware.hwl"
