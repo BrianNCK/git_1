@@ -1,4 +1,3 @@
 VAR
-	chicken : USINT;
 	nugget : USINT;
 END_VAR
