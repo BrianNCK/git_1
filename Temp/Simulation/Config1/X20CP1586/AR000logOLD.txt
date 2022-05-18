@@ -1,43 +1,21 @@
-<<<<<<< HEAD
-Tue May 17 15:00:00 2022
+Wed May 18 14:51:18 2022
 COPYRIGHT (C) B&R Industrial Automation GmbH
 
-Tue May 17 15:00:00 2022
+Wed May 18 14:51:18 2022
 No ARsim registration found!
 
-Tue May 17 15:00:00 2022
-InstanceName: 01d869bbba18fbf0
+Wed May 18 14:51:18 2022
+InstanceName: 01d86a83ad60ec60
 
-Tue May 17 15:00:00 2022
+Wed May 18 14:51:18 2022
 WorkingDirectory: C:\Users\mcjah\OneDrive\Documents\testing1\Temp\Simulation\Config1\X20CP1586\
 
-Tue May 17 15:00:00 2022
+Wed May 18 14:51:18 2022
 COMMAND_COLDSTART
 
-Tue May 17 15:00:03 2022
+Wed May 18 14:51:21 2022
 Version: B4.63
 
-Tue May 17 15:04:49 2022
-=======
-Tue May 17 09:26:26 2022
-COPYRIGHT (C) B&R Industrial Automation GmbH
-
-Tue May 17 09:26:26 2022
-No ARsim registration found!
-
-Tue May 17 09:26:26 2022
-InstanceName: 01d8698d2086f3d0
-
-Tue May 17 09:26:26 2022
-WorkingDirectory: C:\projects\testing1\Temp\Simulation\Config1\X20CP1586\
-
-Tue May 17 09:26:26 2022
-COMMAND_COLDSTART
-
-Tue May 17 09:26:28 2022
-Version: B4.63
-
-Tue May 17 13:21:52 2022
->>>>>>> 28170141dfb81394ff26faa84ffb456a25b9c79c
+Wed May 18 14:51:24 2022
 COMMAND_TERMINATE
 
