@@ -5,10 +5,10 @@
     <ConnectionParameters>/RT=1000 /DAIP=127.0.0.1 /REPO=11160 /ANSL=1 /AM=* /PT=11169</ConnectionParameters>
   </Connection>
   <AsProject>
-    <ApjFullFileName>C:\projects\testing1\testing1.apj</ApjFullFileName>
+    <ApjFullFileName>C:\Users\mcjah\OneDrive\Documents\testing1\testing1.apj</ApjFullFileName>
     <ProjectName>testing1</ProjectName>
     <ActiveConfigurationName>Config1</ActiveConfigurationName>
-    <LicenseDataFolder>C:\projects\testing1\Temp\Objects\Config1\X20CP1586</LicenseDataFolder>
+    <LicenseDataFolder>C:\Users\mcjah\OneDrive\Documents\testing1\Temp\Objects\Config1\X20CP1586</LicenseDataFolder>
   </AsProject>
   <General>
     <DeleteParameterFile>false</DeleteParameterFile>

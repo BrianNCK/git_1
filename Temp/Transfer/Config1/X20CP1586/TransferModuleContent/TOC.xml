@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Toc Version="2" MinorVersion="0">
 	<Application>
-<<<<<<< HEAD
-=======
 		<Class Name="AddonsData">
 			<Folder Name="IAT_Data" ProjectDependent="1" IgnoreDifference="0" IsGroup="1">
 				<Folder Name="server" ProjectDependent="1" IgnoreDifference="0">
@@ -1351,7 +1349,7 @@
 			<Folder Name="OPCUA" ProjectDependent="1" IgnoreDifference="0" IsGroup="1">
 				<Folder Name="NodeSet" ProjectDependent="1" IgnoreDifference="0">
 					<Folder Name="Generated" ProjectDependent="1" IgnoreDifference="0">
-						<File Name="OpcUaMap.uar.gz" Size="590" HashValue="C18A664B78F46722E80D9231CDBC4279" ProjectDependent="1" IgnoreDifference="0" />
+						<File Name="OpcUaMap.uar.gz" Size="590" HashValue="28C61CC5E6686138D3E7CD8FF981E9EA" ProjectDependent="1" IgnoreDifference="0" />
 					</Folder>
 					<Folder Name="Vendor" ProjectDependent="1" IgnoreDifference="0">
 						<File Name="plc.aprol.uanodeset" Size="6712" HashValue="08ADF5B15D3AF0566E164F0E4D4FB418" ProjectDependent="1" IgnoreDifference="0" />
@@ -1396,7 +1394,6 @@
 				<File Name="uastack.dll" Size="941568" HashValue="B674D636AD576B6321732A333498B683" ProjectDependent="1" IgnoreDifference="0" />
 			</Folder>
 		</Class>
->>>>>>> 28170141dfb81394ff26faa84ffb456a25b9c79c
 		<Class Name="Os">
 			<Folder Name="Brm" ProjectDependent="1" IgnoreDifference="0">
 				<File Name="@cfAR000.br" Size="4340" HashValue="0D3E5FED29014F458A1D1633B9298A8C" ProjectDependent="1" IgnoreDifference="0" />
@@ -1426,11 +1423,9 @@
 			</Folder>
 			<File Name="arsimproxy.dll" Size="159744" HashValue="EB7720D84D72854A6EC2A8FF342A953B" ProjectDependent="1" IgnoreDifference="0" />
 		</Class>
-<<<<<<< HEAD
-=======
 		<Memory Name="SYSROM">
 			<Module Name="::$$sysconf" Type="129" Size="69816" Modified="2022-05-10 15:08:06" Version="4.63" ProjectDependent="1" Reboot="1" />
-			<Module Name="::TCData" Type="209" Size="3869280" Modified="2022-03-15 14:03:00" Version="1.00" ProjectDependent="1" />
+			<Module Name="::TCData" Type="209" Size="3869280" Modified="2022-05-18 15:02:22" Version="1.00" ProjectDependent="1" />
 			<Module Name="::arconfig" Type="132" Size="2964" Modified="2022-03-15 14:02:59" Version="1.00" ProjectDependent="1" Reboot="1" />
 			<Module Name="::asfw" Type="67" Size="237852" Modified="2022-03-15 14:02:59" Version="1.00" ProjectDependent="1" Reboot="1" />
 			<Module Name="::ashwd" Type="67" Size="1572" Modified="2022-03-15 14:02:59" Version="1.00" ProjectDependent="1" Reboot="1" />
@@ -1440,11 +1435,10 @@
 			<Module Name="::AsIecCon" Type="18" Size="17420" Modified="2019-08-02 00:22:11" Version="4.63" ProjectDependent="1" />
 			<Module Name="::FWRules" Type="136" Size="456" Modified="2022-03-15 14:02:58" Version="1.00" ProjectDependent="1" />
 			<Module Name="::FileIO" Type="18" Size="25184" Modified="2019-08-02 00:56:19" Version="4.63" ProjectDependent="1" />
-			<Module Name="::Program" Type="17" Size="1940" Modified="2022-05-17 09:27:43" Version="1.00" ProjectDependent="1" />
-			<Module Name="::Program1" Type="17" Size="1656" Modified="2022-05-10 13:19:21" Version="1.00" ProjectDependent="1" />
-			<Module Name="::RevInfo" Type="17" Size="2832" Modified="2022-05-17 09:27:43" Version="1.00" ProjectDependent="1" />
+			<Module Name="::Program" Type="17" Size="1940" Modified="2022-05-18 15:02:20" Version="1.00" ProjectDependent="1" />
+			<Module Name="::Program1" Type="17" Size="1744" Modified="2022-05-18 15:02:20" Version="1.00" ProjectDependent="1" />
+			<Module Name="::RevInfo" Type="17" Size="2848" Modified="2022-05-18 15:04:29" Version="1.00" ProjectDependent="1" />
 			<Module Name="::Role" Type="136" Size="760" Modified="2022-03-15 14:02:58" Version="1.00" ProjectDependent="1" />
-			<Module Name="::User" Type="136" Size="648" Modified="2022-03-15 14:02:58" Version="1.00" ProjectDependent="1" />
 			<Module Name="::ashwac" Type="136" Size="212" Modified="2022-03-15 14:02:58" Version="1.00" ProjectDependent="1" />
 			<Module Name="::astime" Type="18" Size="22996" Modified="2019-08-02 00:44:52" Version="4.63" ProjectDependent="1" />
 			<Module Name="::iomap" Type="50" Size="6784" Modified="2022-03-15 14:02:59" Version="1.00" ProjectDependent="1" />
@@ -1452,6 +1446,5 @@
 			<Module Name="::runtime" Type="18" Size="29340" Modified="2019-08-02 00:58:41" Version="4.63" ProjectDependent="1" />
 			<Module Name="::udbdef" Type="210" Size="70264" Modified="2014-04-10 10:00:00" Version="0.01" ProjectDependent="1" />
 		</Memory>
->>>>>>> 28170141dfb81394ff26faa84ffb456a25b9c79c
 	</Application>
 </Toc>

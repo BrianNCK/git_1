@@ -20,7 +20,6 @@
   <Operation Download="TCData.br" Memory="SystemROM"/>
   <Operation Download="ashwac.br" Memory="UserROM"/>
   <Operation Download="iomap.br" Memory="UserROM"/>
-  <Operation Download="User.br" Memory="UserROM"/>
   <Operation Download="Role.br" Memory="UserROM"/>
   <Operation Download="AsBrStr.br" Memory="UserROM"/>
   <Operation Download="runtime.br" Memory="UserROM"/>

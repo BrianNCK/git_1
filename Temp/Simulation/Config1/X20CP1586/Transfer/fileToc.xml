@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Toc Version="2" MINORVERSION="0">
 	<Application>
-<<<<<<< HEAD
-=======
 		<Class Name="Addons">
 			<Folder Name="IATR" IsGroup="1">
 				<File Name="afcomp.dll" Size="119808" HashValue="911C5713DDD59D01EB23F983F32926E1" ProjectDependent="1"/>
@@ -1382,12 +1380,12 @@
 					</Folder>
 				</Folder>
 			</Folder>
-			<Folder Name="OPCUA" IsGroup="1">
-				<Folder Name="NodeSet">
-					<Folder Name="Generated">
-						<File Name="OpcUaMap.uar.gz" Size="590" HashValue="C18A664B78F46722E80D9231CDBC4279" ProjectDependent="1"/>
+			<Folder Name="OPCUA">
+				<Folder Name="NodeSet" IsGroup="1">
+					<Folder Name="Generated" IsGroup="1">
+						<File Name="OpcUaMap.uar.gz" Size="590" HashValue="28C61CC5E6686138D3E7CD8FF981E9EA" ProjectDependent="1"/>
 					</Folder>
-					<Folder Name="Vendor">
+					<Folder Name="Vendor" IsGroup="1">
 						<File Name="plc.aprol.uanodeset" Size="6712" HashValue="08ADF5B15D3AF0566E164F0E4D4FB418" ProjectDependent="1"/>
 						<File Name="plc.br.pv.uanodeset" Size="7103" HashValue="682E7CDF6F09940F70D6CA1CC158D516" ProjectDependent="1"/>
 						<File Name="plc.plcopen.pv.uanodeset" Size="19824" HashValue="0ACC12204AA326E4FC509E697ACBB201" ProjectDependent="1"/>
@@ -1396,7 +1394,6 @@
 				</Folder>
 			</Folder>
 		</Class>
->>>>>>> 28170141dfb81394ff26faa84ffb456a25b9c79c
 		<Class Name="Os">
 			<File Name="arsimproxy.dll" Size="159744" HashValue="EB7720D84D72854A6EC2A8FF342A953B" ProjectDependent="1"/>
 			<File Name="InaFrms.dll" Size="98304" HashValue="BCBB8AB4B7168E2BB538CF86E5B742A3" ProjectDependent="1"/>

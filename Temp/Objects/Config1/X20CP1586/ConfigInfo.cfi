@@ -15,15 +15,15 @@
       Source="Program"
       Language="IEC">
       <InternalFile
-        Path="C:\projects\testing1\Temp\Objects\Config1\X20CP1586\Program\Cyclic.st.var" />
+        Path="C:\Users\mcjah\OneDrive\Documents\testing1\Temp\Objects\Config1\X20CP1586\Program\Cyclic.st.var" />
       <InternalFile
-        Path="C:\projects\testing1\Temp\Objects\Config1\X20CP1586\Program\Init.st.var" />
+        Path="C:\Users\mcjah\OneDrive\Documents\testing1\Temp\Objects\Config1\X20CP1586\Program\Init.st.var" />
       <InternalFile
-        Path="C:\projects\testing1\Temp\Objects\Config1\X20CP1586\Program\Exit.st.var" />
+        Path="C:\Users\mcjah\OneDrive\Documents\testing1\Temp\Objects\Config1\X20CP1586\Program\Exit.st.var" />
       <File
-        Path="C:\projects\testing1\Logical\Program\Types.typ" />
+        Path="C:\Users\mcjah\OneDrive\Documents\testing1\Logical\Program\Types.typ" />
       <File
-        Path="C:\projects\testing1\Logical\Program\Variables.var" />
+        Path="C:\Users\mcjah\OneDrive\Documents\testing1\Logical\Program\Variables.var" />
     </Task>
     <Task
       Name="Program1"
@@ -31,15 +31,15 @@
       Source="Program1"
       Language="IEC">
       <InternalFile
-        Path="C:\projects\testing1\Temp\Objects\Config1\X20CP1586\Program1\Cyclic.ld.var" />
+        Path="C:\Users\mcjah\OneDrive\Documents\testing1\Temp\Objects\Config1\X20CP1586\Program1\Cyclic.ld.var" />
       <InternalFile
-        Path="C:\projects\testing1\Temp\Objects\Config1\X20CP1586\Program1\Init.ld.var" />
+        Path="C:\Users\mcjah\OneDrive\Documents\testing1\Temp\Objects\Config1\X20CP1586\Program1\Init.ld.var" />
       <InternalFile
-        Path="C:\projects\testing1\Temp\Objects\Config1\X20CP1586\Program1\Exit.ld.var" />
+        Path="C:\Users\mcjah\OneDrive\Documents\testing1\Temp\Objects\Config1\X20CP1586\Program1\Exit.ld.var" />
       <File
-        Path="C:\projects\testing1\Logical\Program1\Types.typ" />
+        Path="C:\Users\mcjah\OneDrive\Documents\testing1\Logical\Program1\Types.typ" />
       <File
-        Path="C:\projects\testing1\Logical\Program1\Variables.var" />
+        Path="C:\Users\mcjah\OneDrive\Documents\testing1\Logical\Program1\Variables.var" />
     </Task>
   </TaskClass>
   <TaskClass
@@ -54,11 +54,11 @@
       Source="RevInfo.RevInfo"
       Language="IEC">
       <InternalFile
-        Path="C:\projects\testing1\Temp\Objects\Config1\X20CP1586\RevInfo\Main.st.var" />
+        Path="C:\Users\mcjah\OneDrive\Documents\testing1\Temp\Objects\Config1\X20CP1586\RevInfo\Main.st.var" />
       <File
-        Path="C:\projects\testing1\Logical\RevInfo\RevInfo\Types.typ" />
+        Path="C:\Users\mcjah\OneDrive\Documents\testing1\Logical\RevInfo\RevInfo\Types.typ" />
       <File
-        Path="C:\projects\testing1\Logical\RevInfo\RevInfo\Variables.var" />
+        Path="C:\Users\mcjah\OneDrive\Documents\testing1\Logical\RevInfo\RevInfo\Variables.var" />
     </Task>
   </TaskClass>
   <TaskClass
